@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yodalang/static/css/main.e6c13ad2.css",
+    "main.js": "/yodalang/static/js/main.efb4c2f5.js",
+    "static/js/787.f9fc1f16.chunk.js": "/yodalang/static/js/787.f9fc1f16.chunk.js",
+    "index.html": "/yodalang/index.html",
+    "main.e6c13ad2.css.map": "/yodalang/static/css/main.e6c13ad2.css.map",
+    "main.efb4c2f5.js.map": "/yodalang/static/js/main.efb4c2f5.js.map",
+    "787.f9fc1f16.chunk.js.map": "/yodalang/static/js/787.f9fc1f16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.efb4c2f5.js"
+  ]
+}
